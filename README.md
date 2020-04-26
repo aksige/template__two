@@ -1,1 +1,1 @@
-[ref](https://github.io/aksige/template__two)
+[ref](https://https://aksige.github.io/template__two)
